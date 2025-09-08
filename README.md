@@ -1,9 +1,12 @@
 # Reminders – macOS
 A simple and elegant macOS application built with SwiftUI and Core Data for managing categorized notes and todos. Easily create custom categories, assign colors, and track notes or todos with date selection and persistent storage.
 
+# ScreenShots
+
+<img width="100%" height="730" alt="Screenshot 2025-09-08 at 11 01 48" src="https://github.com/user-attachments/assets/a9a2b01a-48f0-4a77-bb6b-e972f649c35d" />
+
 # Features
 # Category Management:
-
 - Add new categories with a custom title and selectable color (e.g., Entertainment, Medical, Groceries).
 
 - Sidebar displays your categories for quick navigation.
