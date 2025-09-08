@@ -8,16 +8,21 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var showAddListView = false
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        NavigationView {
+            SideBarView(showAddListView: $showAddListView)
+                .padding()
+            Text("")
+        }.sheet(isPresented: $showAddListView) {
+            AddListView()
+                .padding(.horizontal)
         }
-        .padding()
     }
 }
+
+
 
 #Preview {
     ContentView()
