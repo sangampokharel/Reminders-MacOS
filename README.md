@@ -5,6 +5,7 @@ A simple and elegant macOS application built with SwiftUI and Core Data for mana
 
 <img width="100%" height="730" alt="Screenshot 2025-09-08 at 11 01 48" src="https://github.com/user-attachments/assets/a9a2b01a-48f0-4a77-bb6b-e972f649c35d" />
 <img width="100%" height="756" alt="Screenshot 2025-09-08 at 11 02 59" src="https://github.com/user-attachments/assets/f095cb5e-258e-4a92-92de-840b09d43fab" />
+<img width="100%" height="728" alt="Screenshot 2025-09-08 at 11 03 52" src="https://github.com/user-attachments/assets/d571ff26-4752-4b02-a795-ec356324638f" />
 
 # Features
 # Category Management:
